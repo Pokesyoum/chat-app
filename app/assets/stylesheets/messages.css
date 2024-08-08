@@ -88,11 +88,11 @@
   overflow: scroll;
 }
 
-.name-and-date {
+.upper-message {
   display: flex;
 }
 
-.chat-user-name {
+.message-user {
   color: #434A54;
   font-size: 16px;
   margin: 0 10px 10px 0;
@@ -103,7 +103,7 @@
   font-size: 12px;
 }
 
-.message {
+.message-content {
   color: #434A54;
   font-size: 14px;
 }
